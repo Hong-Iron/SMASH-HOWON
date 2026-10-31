@@ -1,0 +1,113 @@
+{
+  "code": "HOWON",
+  "title": "SMASH HOWON",
+  "school": "호원대",
+  "fullName": "호원대학교",
+  "campusName": "호원대학교",
+  "tagline": "호원대를 부셔 (시험기간 스트레스 해소)",
+  "description": "호원대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 호원대학교 3D 화면과 SMASH HOWON 제목",
+  "url": "https://hong-iron.github.io/SMASH-HOWON/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 922769806
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/1356928544",
+      "n": "",
+      "why": "학교 건물 아님 — 학교 땅이 아닌 대지(월하리 757-6)에 선 3층 근린생활시설로, 건물 정보에 호원대학교 이름이 없는 길가 상가 건물이다."
+    },
+    {
+      "id": "way/1356928540",
+      "n": "",
+      "why": "같은 건물 겹침 — 운동장 남쪽 스탠드 가운데의 지붕 구조물을 북쪽 그림자와 잔디 쪽으로 밀려 그린 것으로, 같은 자리의 43번과 겹친다."
+    },
+    {
+      "id": "way/1357168780",
+      "n": "",
+      "why": "항공사진에 없음 — 남쪽 주차장 아스팔트 위라서 사진에 서 있는 건물이 없다."
+    },
+    {
+      "id": "way/1357168781",
+      "n": "",
+      "why": "항공사진에 없음 — 주차장 사이 나무 화단 자리라서 사진에 지붕이 보이지 않는다."
+    },
+    {
+      "at": [
+        35.9683543,
+        126.8645069
+      ],
+      "n": "휴게실",
+      "why": "항공사진에 없음 — 창조관과 화장실·샤워실 건물 사이의 맨땅으로, 1994년 휴게실 기록만 남았고 사진에 지붕이 없다."
+    },
+    {
+      "at": [
+        35.9669514,
+        126.8621458
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 학교 땅이 아닌 임야(산93-3) 숲속에 따로 떨어진 이름 없는 작은 창고로, 학교 건물이라는 근거가 없다."
+    }
+  ],
+  "look": {
+    "호원대 창조관": {
+      "style": "brick",
+      "wall": "#85685a",
+      "glass": "#3e4346",
+      "frame": "#dfe3e3"
+    },
+    "호원대 공학관": {
+      "style": "brick",
+      "wall": "#8a6656",
+      "glass": "#3a3f42",
+      "frame": "#e6ddd0"
+    },
+    "호원대 문화관광관": {
+      "style": "brick",
+      "wall": "#9a7660",
+      "glass": "#3a3f42",
+      "frame": "#e8dfd2"
+    },
+    "호원대 정보통신관": {
+      "style": "brick",
+      "wall": "#9c5a44",
+      "glass": "#3a3f42",
+      "frame": "#e6e0d6"
+    },
+    "호원대 행정복지관": {
+      "style": "stone",
+      "wall": "#e6e1d6",
+      "glass": "#3d4750",
+      "frame": "#b9b4aa"
+    },
+    "호원대 산학협력관": {
+      "style": "stone",
+      "wall": "#e8e6e0",
+      "glass": "#3d4750",
+      "frame": "#a9a59e"
+    },
+    "호원대 학생회관": {
+      "style": "tan",
+      "wall": "#cfb08a",
+      "glass": "#3d4750",
+      "frame": "#ece8de"
+    },
+    "호원대 문화체육관": {
+      "style": "ribbon",
+      "wall": "#e2e2de",
+      "glass": "#3b4651",
+      "frame": "#9aa0a4"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
